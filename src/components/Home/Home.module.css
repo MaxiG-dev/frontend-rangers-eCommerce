@@ -1,0 +1,11 @@
+.home h1 {
+  text-align: center;
+}
+
+.bannerImages {
+  object-fit: fill;
+}
+
+.dots li {
+  border-radius: 50%;
+}
